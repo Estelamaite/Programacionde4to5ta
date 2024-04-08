@@ -1,0 +1,28 @@
+punto uno : 4,11,0,36
+punto dos : 1.8032
+punto tres : #include <iostream>
+using namespace std;
+int main()
+{
+    float PI= 3.14159;
+    float radius = 5;
+    float area;
+    area = radius * radius * PI;
+    cout<<area<<endl;
+    radius = 20;
+    area = radius * radius * PI;
+    cout<<area<<endl;
+    return 0;
+}
+punto cuatro : 
+#include
+<iostream>
+using namespace std;
+int main ()
+{
+     int age=35;
+    cout<<age<<endl;
+    age=52;
+    cout<<age<<endl;
+    return 0;
+}
